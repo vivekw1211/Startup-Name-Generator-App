@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     //final word = WordPair.random();
 
     return MaterialApp(
-      title: "Experience Lassonde!",
+      title: "Starup Name!",
       home: Scaffold(
         body: Center(
           child: RandomWords(),
